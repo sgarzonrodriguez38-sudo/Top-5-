@@ -15,11 +15,11 @@ footer { margin-top: 40px; color: #666; }
 <cuerpo>
 <h1>Mis 5 alimentos favoritos</h1>
 <ol>
-<li>Pizza</li>
-<li>arepas</li>
-<li>Sushi</li>
+<li>bombon</li>
+<li>chicolate</li>
+<li>detodito</li>
 <li>Helado</li>
-<li>Empanadas</li>
+<li>chokis</li>
 </ol>
 <footer>Hecha por TU NOMBRE · Lógica de Programación · Universidad del Quindío</footer>
 </cuerpo>
