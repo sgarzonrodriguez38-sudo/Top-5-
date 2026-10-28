@@ -13,9 +13,9 @@ footer { margin-top: 40px; color: #666; }
 </estilo>
 </cabeza>
 <cuerpo>
-<h1>Mis 5 alimentos favoritos</h1>
+<h1>Mis 5 dulces favoritos</h1>
 <ol>
-<li>bombon</li>
+<li>takis</li>
 <li>chicolate</li>
 <li>detodito</li>
 <li>Helado</li>
